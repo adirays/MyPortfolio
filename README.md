@@ -1,9 +1,5 @@
 
-  # Premium Interactive Portfolio Website
-
-  This is a code bundle for Premium Interactive Portfolio Website. The original project is available at https://www.figma.com/design/PgBb2A98u4nIPLOGjTSfMN/Premium-Interactive-Portfolio-Website.
-
-  ## Running the code
+## Running the code
 
   Run `npm i` to install the dependencies.
 
