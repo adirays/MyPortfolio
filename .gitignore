@@ -43,6 +43,22 @@ Thumbs.db
 *.key
 *.db
 
+# Project documentation / local notes
+/README*.md
+/ATTRIBUTIONS.md
+/CUSTOMIZATION_GUIDE.md
+/guidelines/
+/imports/
+
+# Generated reports and analysis outputs
+/reports/
+/*.csv
+/*.xls
+/*.xlsx
+/*.pdf
+/*.html
+/report-*
+
 # Optional: local OS-specific
 *.local
 

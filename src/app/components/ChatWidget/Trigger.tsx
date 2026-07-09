@@ -1,5 +1,6 @@
 import { motion, AnimatePresence } from "motion/react"
 import { useState, useEffect } from "react"
+import quiddyGif from "../../../imports/Quiddy.gif"
 
 interface TriggerProps {
   onClick: () => void;
@@ -135,7 +136,7 @@ export function Trigger({ onClick }: TriggerProps) {
         transition={{ type: "spring", stiffness: 300, damping: 20 }}
       >
         <img
-          src="src\imports\Quiddy.gif"
+          src={quiddyGif}
           alt="Quiddy"
           style={{
             width: "100%",
