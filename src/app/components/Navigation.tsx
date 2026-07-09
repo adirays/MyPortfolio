@@ -106,7 +106,7 @@ export default function Navigation() {
                 letterSpacing: "0.04em",
               }}
             >
-              YN
+              Landing Page
             </Link>
 
             {/* Desktop nav — items push apart on hover via gap animation */}
