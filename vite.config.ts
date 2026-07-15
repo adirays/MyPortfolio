@@ -17,7 +17,8 @@ function figmaAssetResolver() {
 }
 
 export default defineConfig({
-  root: __dirname,
+  // Use current working directory instead of __dirname (not available in ESM on Vercel)
+  root: process.cwd(),
   build: {
     outDir: 'dist',
     emptyOutDir: true,
