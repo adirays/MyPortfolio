@@ -57,6 +57,8 @@ Thumbs.db
 /*.xlsx
 /*.pdf
 /*.html
+/*.html
+!index.html
 /report-*
 
 # Optional: local OS-specific
