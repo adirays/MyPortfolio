@@ -148,7 +148,7 @@ export default function Landing() {
               animate={{ opacity: 1 }}
               transition={{ duration: 0.8, delay: 0.4 }}
             >
-              AI Engineer · AspiringProduct Builder
+              AI Engineer · Software Developer · 
             </motion.p>
 
             {/* CTA Button */}

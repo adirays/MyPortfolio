@@ -396,7 +396,7 @@ export default function Portfolio() {
                 View work
               </button>
               <a
-                href="/resume.pdf"
+                href="src\imports\Resume.pdf"
                 download
                 style={{
                   ...label,
